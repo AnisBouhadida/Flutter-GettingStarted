@@ -1,6 +1,6 @@
 # globo_fitness
 
-A new Flutter project.
+A new Flutter project following with the course Flutter : getting started from Pluralsight.
 
 ## Getting Started
 
